@@ -61,4 +61,6 @@ This project is available under the MIT license. See the [LICENSE](LICENSE) file
 
 ---
 
-_Made with ❤️ and SwiftUI_ 
+<div align="center">
+  <strong>Made with ❤️ by Sarvagna</strong>
+</div> 
